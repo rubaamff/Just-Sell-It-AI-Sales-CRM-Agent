@@ -1,0 +1,17 @@
+streamlit
+pandas
+plotly
+openai
+python-dotenv
+langchain==0.3.*
+langchain-openai==0.2.*
+langchain-community==0.3.*
+langgraph>=0.2.50,<0.3
+pydantic>=2.5,<3
+pypdf
+faiss-cpu
+duckduckgo-search
+reportlab
+google-auth
+google-auth-oauthlib
+google-api-python-client
